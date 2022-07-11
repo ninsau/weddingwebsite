@@ -84,7 +84,7 @@ export function Hero() {
           </span> */}
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-light tracking-tight text-slate-900 sm:text-7xl">
         Christabel & Charles <br />
-        <span className="relative text-2xl text-pink-600">are</span>
+        <span className="relative text-2xl text-pink-600">are<br/></span>
         <span className="relative whitespace-nowrap text-pink-600">
           <svg
             aria-hidden="true"
