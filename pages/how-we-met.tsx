@@ -1,5 +1,5 @@
 import { NextPage } from "next";
-import HowWeMetComponent from "../components/HowWeMEt";
+import HowWeMetComponent from "../components/HowWeMet";
 import MetaComponent from "../components/Meta";
 
 const HowWeMet: NextPage = () => {
