@@ -23,51 +23,11 @@ const MenuComponent = () => {
         </div>
       </div>
 
-      
       <div className="bg-white">
         <div className="max-w-7xl mx-auto text-center py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
-          <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            <span className="block">Ready to dive in?</span>
-            <span className="block">Tasty dishes for your pleasure.</span>
-          </h2>
-          <div className="m-12 py-12  justify-center">
-            <div className="inline-flex rounded-md shadow">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700">
-                JERK CHICKEN PIECES
-              </a>
-            </div>
-            <div className="ml-3 inline-flex">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray bg-gray-100 hover:bg-gray-200">
-                FISH FILLET IN WHITE CREAMY SAUCE
-              </a>
-            </div>
-
-            <div className="inline-flex rounded-md shadow">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700">
-                CHILI LEMON CHICKEN WINGS
-              </a>
-            </div>
-
-            <div className="ml-3 inline-flex">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray bg-gray-100 hover:bg-gray-200">
-                JERK CHICKEN
-              </a>
-            </div>
-
-            <div className="inline-flex rounded-md shadow">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700">
-                FULL GRILLED GROUPER FISH
-              </a>
-            </div>
-
-            <div className="ml-3 inline-flex">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray bg-gray-100 hover:bg-gray-200">
-                FULL GRILLED GROUPER FISH
-              </a>
-            </div>
-          </div>
-
-
+          <img src="https://res.cloudinary.com/deyudesls/image/upload/q_100,x_0,y_0/v1658103711/csthemoment/7d1d5ac5-c6d3-4999-a66d-822b9b1a399f_qhb4m7.webp"   alt="menu of food"
+            className="w-full h-full object-center object-cover"
+            loading="lazy"  />
         </div>
       </div>
     </>

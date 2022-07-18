@@ -30,24 +30,25 @@ const weddingFeatures = [
       "Appetizers will be served shortly after picture-taking, from 12pm - 1pm.",
     icon: BadgeCheckIcon,
   },
+
+];
+const reception = [
   {
-    id: 4,
+    id: 1,
     name: "Entry of families and Couple (5pm - 6pm)",
     description:
       "Finally after the afternoon, the entry of families and Couple will be held, from 5pm - 6pm.",
     icon: ChevronDoubleDownIcon,
   },
-];
-const reception = [
   {
-    id: 1,
+    id: 2,
     name: "Dinner (6pm - 8pm)",
     description:
       "We will have our sumptous dinner, from 6pm - 8pm, at the reception hall.",
     icon: ShoppingBagIcon,
   },
   {
-    id: 2,
+    id: 3,
     name: "Speeches and Toasts (8pm - 9pm)",
     description:
       "Come and here incredible stories from the people who know us, from 8pm - 9pm.",
@@ -55,7 +56,7 @@ const reception = [
   },
 
   {
-    id: 3,
+    id: 4,
     name: "Entertainment (9pm - 10pm)",
     description: "Join us as we enjoy the evening, from 9pm - 10pm.",
     icon: CubeTransparentIcon,
