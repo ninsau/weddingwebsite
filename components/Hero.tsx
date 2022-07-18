@@ -40,7 +40,6 @@ export function HeroComponent() {
               src="https://res.cloudinary.com/deyudesls/image/upload/v1658095700/csthemoment/b2c265a8-b053-454c-bd29-1a4933838fd2_xrz4xl.webp"
               alt="image of couple standing in front of palm trees"
               className="w-full h-full object-center object-cover"
-              loading="lazy"
             />
           </div>
           <div className="absolute inset-0 bg-gray-900 opacity-50" />
