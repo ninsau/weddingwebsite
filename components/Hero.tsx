@@ -9,12 +9,12 @@ const collections = [
     description: "View event details",
   },
   {
-    name: "Menu",
-    href: "/menu",
+    name: " ",
+    href: "#",
     imageSrc:
       "https://res.cloudinary.com/deyudesls/image/upload/c_scale,h_480,w_384/v1658095698/csthemoment/7f20efe8-19fd-48b3-a417-0c117f2be3f9_ewk6zn.webp",
     imageAlt: "couple laughing",
-    description: "View event menu",
+    description: " ",
   },
   {
     name: "RSVP",
