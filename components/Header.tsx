@@ -2,7 +2,6 @@ import { Fragment } from 'react'
 import Link from 'next/link'
 import { Popover, Transition } from '@headlessui/react'
 import clsx from 'clsx'
-
 import { Container } from './Container'
 import { Logo } from './Logo'
 import { NavLink } from './NavLink'
@@ -79,7 +78,7 @@ function MobileNavigation() {
               <MobileNavLink href="/">Home</MobileNavLink>
             <MobileNavLink href="/event">Event</MobileNavLink>
             <MobileNavLink href="/menu">Menu</MobileNavLink>
-            <MobileNavLink href="#">RSVP</MobileNavLink>
+            <MobileNavLink href="https://api.whatsapp.com/send?phone=233550600004">RSVP</MobileNavLink>
           </Popover.Panel>
         </Transition.Child>
       </Transition.Root>
@@ -89,7 +88,7 @@ function MobileNavigation() {
 
 export function Header() {
   return (
-    <header className="py-10">
+    <header className="py-1">
       <Container>
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">
@@ -100,7 +99,7 @@ export function Header() {
             <NavLink href="/">Home</NavLink>
               <NavLink href="/event">Event</NavLink>
               <NavLink href="/menu">Menu</NavLink>
-              <NavLink href="https://api.whatsapp.com/send?phone=12048697757">RSVP</NavLink>
+              <NavLink href="https://api.whatsapp.com/send?phone=233550600004">RSVP</NavLink>
             </div>
           </div>
           <div className="flex items-center gap-x-5 md:gap-x-8">

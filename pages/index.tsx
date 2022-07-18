@@ -1,14 +1,14 @@
-import type { NextPage } from 'next'
-import { Hero } from '../components/Hero.jsx'
-import MetaComponent from '../components/Meta'
+import type { NextPage } from "next";
+import { HeroComponent } from "../components/Hero";
+import MetaComponent from "../components/Meta";
 
 const Home: NextPage = () => {
   return (
     <>
-    <MetaComponent/>
-    <Hero/>
+      <MetaComponent />
+      <HeroComponent />
     </>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
