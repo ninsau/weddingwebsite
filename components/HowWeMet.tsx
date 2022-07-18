@@ -17,9 +17,8 @@ export default function HowWeMetComponent() {
                   <div className="aspect-w-10 aspect-h-6 sm:aspect-w-2 sm:aspect-h-1 lg:aspect-w-1">
                     <img
                       className="object-cover object-center rounded-3xl shadow-2xl"
-                      src="/couple.JPG"
+                      src="https://res.cloudinary.com/deyudesls/image/upload/v1658140752/csthemoment/0a8d897b-522d-4f4f-ba48-a1d95cf16af9_qmwtsw.webp"
                       alt="couple looking at each other"
-                      loading="lazy"
                     />
                   </div>
                 </div>
