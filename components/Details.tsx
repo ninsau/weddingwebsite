@@ -51,7 +51,7 @@ const reception = [
     id: 3,
     name: "Speeches and Toasts (8pm - 9pm)",
     description:
-      "Come and here incredible stories from the people who know us, from 8pm - 9pm.",
+      "Come and hear incredible stories from the people who know us, from 8pm - 9pm.",
     icon: UsersIcon,
   },
 
