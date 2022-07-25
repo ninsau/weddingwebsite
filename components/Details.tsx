@@ -250,8 +250,7 @@ export default function Details() {
                     After Wedding Reception
                   </h3>
                   <p className="mt-3 text-lg text-gray-500">
-                    Reception at Zinnia Event Centre, 141 Giffard Road - East
-                    Legon
+                    Reception at Zinnia Event Centre, 141 Giffard Road - Cantonments
                   </p>
 
                   <dl className="mt-10 space-y-10">
