@@ -78,7 +78,7 @@ function MobileNavigation() {
               <MobileNavLink href="/">Home</MobileNavLink>
             <MobileNavLink href="/event">Event</MobileNavLink>
             <MobileNavLink href="/how-we-met">How We Met</MobileNavLink>
-            <MobileNavLink href="https://api.whatsapp.com/send?phone=233550600004">RSVP</MobileNavLink>
+            {/* <MobileNavLink href="https://api.whatsapp.com/send?phone=233550600004">RSVP</MobileNavLink> */}
           </Popover.Panel>
         </Transition.Child>
       </Transition.Root>
@@ -99,7 +99,7 @@ export function Header() {
             <NavLink href="/">Home</NavLink>
               <NavLink href="/event">Event</NavLink>
               <NavLink href="/how-we-met">How We Met</NavLink>
-              <NavLink href="https://api.whatsapp.com/send?phone=233550600004">RSVP</NavLink>
+              {/* <NavLink href="https://api.whatsapp.com/send?phone=233550600004">RSVP</NavLink> */}
             </div>
           </div>
           <div className="flex items-center gap-x-5 md:gap-x-8">

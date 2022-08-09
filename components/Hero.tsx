@@ -16,13 +16,21 @@ const collections = [
     imageAlt: "couple laughing",
     description: "Read our story",
   },
+  // {
+  //   name: "RSVP",
+  //   href: "https://api.whatsapp.com/send?phone=233550600004",
+  //   imageSrc:
+  //     "https://res.cloudinary.com/deyudesls/image/upload/c_scale,h_480,w_384/v1658095699/csthemoment/52866a6c-1cbc-4e47-b344-1fa1c056c06d_x2qneg.webp",
+  //   imageAlt: "couple looking at each other",
+  //   description: "RSVP",
+  // },
   {
-    name: "RSVP",
-    href: "https://api.whatsapp.com/send?phone=233550600004",
+    name: "You're cordially invited",
+    href: "#",
     imageSrc:
       "https://res.cloudinary.com/deyudesls/image/upload/c_scale,h_480,w_384/v1658095699/csthemoment/52866a6c-1cbc-4e47-b344-1fa1c056c06d_x2qneg.webp",
     imageAlt: "couple looking at each other",
-    description: "RSVP",
+    description: "Come support us",
   },
 ];
 
